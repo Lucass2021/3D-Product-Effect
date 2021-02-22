@@ -13,7 +13,7 @@
 
 ## 📝 Description
 
->💻 3D Product Effect is a preview of a product, the main idea is to create an uncommon loadout to a buying product, the project was created Dev ED in order to practice HTML, CSS and JavaScript.
+>💻 3D Product Effect is a preview of a product, the main idea is to create an uncommon loadout to a buying product, the project was created by Dev ED in order to practice HTML, CSS and JavaScript.
 
 
 
